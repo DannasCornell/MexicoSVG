@@ -1,4 +1,4 @@
-MexicoSVG
+MéxicoSVG
 =========
 
 Vectorized map of México with states
