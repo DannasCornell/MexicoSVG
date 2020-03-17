@@ -11,7 +11,7 @@ Vectorized map of México with states
 
 ### [MIT License](https://github.com/DannasCornell/MexicoSVG/blob/master/LICENSE)
 
-Copyright (c) 2015 Daniel J Rosales M
+Copyright (c) 2015 [Daniel J Rosales M](https://github.com/DannasCornell)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
